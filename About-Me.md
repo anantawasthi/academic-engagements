@@ -1,3 +1,6 @@
+
+<p><img style="float: right;" src="https://github.com/anantawasthi/academic-engagements/blob/main/Images/Profile%20Picture.jpg?raw=true" alt="" width="300" height="299" /></p>
+
 ## About Me
 
 A Data Science practitioner, with more than 10 years of experience in solving complex problems using cutting-edge machine & deep learning technologies. Gained 5 years of experience in people management and solution development. <br>
