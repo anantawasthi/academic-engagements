@@ -25,7 +25,7 @@ Serco Global Services |	Senior Executive – Analytics | Jun-2011 | Feb-2013
 * Three hour training program on Python at "Computational Tools for Research in Science and technology 2021" organized by Amity University Uttar Pradesh, Noida, during May 24th & 29th 2021 
 * Three days training program on R at "Data Science using R" organized by Department of Statistics, University of Lucknow during 7th & 9th December 2016.
 
-## Papers
+## Publications
 * Yet to start the Journey
 
 
