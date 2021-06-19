@@ -1,6 +1,6 @@
 
 ## About me
-I am a research scholar (Part-time) at Departent of Statistics, Amity Insitute of Applied Sciences, Amity University (Noida Campus). </n>
+I am a research scholar (Part-time) at Departent of Statistics, Amity Insitute of Applied Sciences, Amity University (Noida Campus). <br>
 My area of interest is high volume data management and product development using machine and deep learning. I have enrolled in the session of July 2020.  
 
 ## Why this repos?
