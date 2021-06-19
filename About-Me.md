@@ -12,3 +12,9 @@ Cognizant Technology Services | Senior Associate – BFSI Group | Nov-2014 | Nov
 Xchanging Technology Services |	Team Leader | Jan-2014 | Oct-2014
 Tata Consultancy Services |	Business Analyst | Mar-2013 | Dec-2013
 Serco Global Services |	Senior Executive – Analytics | Jun-2011 | Feb-2013
+
+## Education Details
+* Ph.D. (Part Time), Department of Statistics, Amity Institute of Applied Sciences
+* Master of Science (Biostatistics), University of Lucknow 2011.
+* Bachelor of Science (Statistics), University of Lucknow 2009.
+
